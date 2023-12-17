@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcartao_front"]=self["webpackChunkcartao_front"]||[]).push([[893],{2893:function(r,n,t){t.r(n),t.d(n,{default:function(){return o}});var e=t(3396);function u(r,n){return(0,e.wg)(),(0,e.iD)("div",null," serfs ")}var a=t(89);const c={},f=(0,a.Z)(c,[["render",u]]);var o=f}}]);
+//# sourceMappingURL=893.59413e2b.js.map
